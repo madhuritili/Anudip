@@ -21,30 +21,17 @@ Python project for beginners- Analyze Diwali sales data to improve customer expe
 
         👶🧔 Total purchases by age group
 
-        📦 Product Category Analysis
-
-🛍️ Most sold product categories
-
-🎁 Best-selling individual products
 
 📈  Visualization Techniques
-Visualizations were crafted using Matplotlib, Seaborn, and Plotly to make the data pop with clarity:
 
-📊 Bar Plots & Pie Charts
+       📊 Bar Plots & Pie Charts
 
-For visualizing categorical features like gender, city, and product categories.
+       📉 Histograms & Box Plots
 
-📉 Histograms & Box Plots
+       🔥 Heatmaps
 
-For understanding data distribution and spotting outliers in purchase behavior.
+       📈 Trend Line Graphs
 
-🔥 Heatmaps
-
-Correlation analysis between numerical features like age, amount, etc.
-
-📈 Trend Line Graphs
-
-Time-series insights (if temporal data is available) to observe trends.
 
   
 # RESULTS
