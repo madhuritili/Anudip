@@ -4,32 +4,24 @@ Python project for beginners- Analyze Diwali sales data to improve customer expe
 
 ## 🚀 Features
 📊 Data Exploration & Visualization
-We performed a comprehensive Exploratory Data Analysis (EDA) to extract actionable insights from the Diwali sales dataset.
+
 
 🔍  Exploratory Data Analysis (EDA)
-🧍‍♂️ Customer Demographics Analysis
+       🧍‍♂️ Customer Demographics Analysis
 
-👨‍👩‍👧‍👦 Gender distribution
+        👨‍👩‍👧‍👦 Gender distribution
 
-🎂 Age group segmentation
+        🎂 Age group segmentation
 
-💍 Marital status breakdown
+        💍 Marital status breakdown
 
-💸 Spending Behavior Analysis
+        💸 Spending Behavior Analysis
 
-👩 vs 👨 Total purchases by gender
+        👩 vs 👨 Total purchases by gender
 
-👶🧔 Total purchases by age group
+        👶🧔 Total purchases by age group
 
-🧑‍💼 Total purchases by occupation
-
-🌍 Geographical Insights
-
-🏙️ Top cities by total sales
-
-🗺️ Top states by total sales
-
-📦 Product Category Analysis
+        📦 Product Category Analysis
 
 🛍️ Most sold product categories
 
